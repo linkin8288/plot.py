@@ -1,1 +1,1 @@
-"# black-and-white-" 
+"# black-and-white" 
